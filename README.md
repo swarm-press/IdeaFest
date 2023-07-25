@@ -1,2 +1,2 @@
-# ideafest
+# Hello, Cardano!
 Swarm IdeaFest repository
