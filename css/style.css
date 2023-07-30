@@ -73,6 +73,7 @@ h6 {
     color: #333;
     font-family: 'Raleway', sans-serif;
     margin-bottom: 0px;
+    text-shadow: 4px 4px 8px rgb(255, 255, 255);
 }
 
 p,
@@ -806,6 +807,7 @@ nav .navbar-nav li:last-child a {
 
 .feature-icon {
     margin-top: 15px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .feature-icon i {
@@ -814,6 +816,7 @@ nav .navbar-nav li:last-child a {
     font-size: 50px;
     color: #ff8000;
     margin-bottom: 20px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .feature-details h3 {
