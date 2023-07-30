@@ -77,7 +77,7 @@ h6 {
 
 p,
 a {
-    color: rgba(142, 142, 142, 1);
+    color: rgb(255, 255, 255);
     margin-bottom: 0px;
 }
 
@@ -612,7 +612,8 @@ nav .navbar-nav li:last-child a {
 4. townhall CSS Start
 ========================================*/
 #about {
-    background: linear-gradient(to bottom, #e6e938bb, #2f9ad8);
+    background: linear-gradient(to bottom, #2f9ad8, #38e973bb);
+    padding: 90px 0px 70px;
 }
 
 @-webkit-keyframes pulse-border {
@@ -694,10 +695,12 @@ nav .navbar-nav li:last-child a {
 
 #about {
     padding: 88px 0px 98px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 #about .s-top-p {
     margin-bottom: 47px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .about-info h5,
@@ -706,19 +709,23 @@ nav .navbar-nav li:last-child a {
     font-size: 24px;
     font-weight: 600;
     text-transform: capitalize;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .about-info h5 span,
 .about_history h5 span {
     color: #ff8000;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .about_history {
     margin-top: 43px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 #about .mybtn {
     margin-top: 30px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 
@@ -728,8 +735,8 @@ nav .navbar-nav li:last-child a {
 5. Community events CSS start 
 ====================================*/
 #feature {
-    background: linear-gradient(to bottom, #2f9ad8, #38e973bb);
-    padding: 90px 0px 70px;
+    background: radial-gradient(circle, #1E1E1E 2%, #CFEA2A, #FF9211, #15E042, #0050EA);
+    padding: 40px 0;
 }
 
 #feature .s-top-p {
@@ -814,11 +821,13 @@ nav .navbar-nav li:last-child a {
     font-size: 24px;
     font-weight: 600;
     text-transform: capitalize;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .feature-details p {
     font-weight: 400;
     margin-bottom: 45px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 
